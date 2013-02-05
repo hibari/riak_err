@@ -1,3 +1,5 @@
+.eqc-info
+.eunit/
+.qc/
 doc
 ebin/*.beam
-.eunit
